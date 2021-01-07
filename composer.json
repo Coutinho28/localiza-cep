@@ -1,0 +1,23 @@
+{
+    "name": "lucas/localiza-cep",
+    "description": "Busca de CP oline com PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lucas coutinho",
+            "email": "lucas@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "lucas\\localizacep\\": "src/"
+        }
+    }
+}
