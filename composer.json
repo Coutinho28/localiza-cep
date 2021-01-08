@@ -5,7 +5,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "lucas coutinho",
+            "name": "Coutinho",
             "email": "lucas@gmail.com"
         }
     ],
@@ -17,7 +17,7 @@
             "Search": "src/"
         },
         "psr-4": {
-            "lucas\\localizacep\\": "src/"
+            "Lucas\\localizacep\\": "src/"
         }
     }
 }
