@@ -1,7 +1,7 @@
 <?php
     require_once "vendor/autoload.php";
 
-    use lucas\localizacep\Search;
+    use Lucas\localizacep\Search;
     
     $busca = new Search;
 
