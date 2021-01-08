@@ -1,6 +1,6 @@
 {
-    "name": "lucas/localiza-cep",
-    "description": "Busca de CP oline com PHP",
+    "name": "Lucas/localiza-cep",
+    "description": "Busca de CP oline com PHP",     
     "type": "library",
     "license": "MIT",
     "authors": [
