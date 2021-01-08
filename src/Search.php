@@ -1,6 +1,6 @@
 <?php
 
-namespace  lucas\localizacep;
+namespace  Lucas\localizacep;
 
 class Search{
      private $url = "https://viacep.com.br/ws/";
