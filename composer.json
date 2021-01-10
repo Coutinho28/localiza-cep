@@ -1,5 +1,5 @@
 {
-    "name": "Lucas/localiza-cep",
+    "name": "coutinho/localiza-cep",
     "description": "Busca de CP oline com PHP",     
     "type": "library",
     "license": "MIT",
@@ -17,7 +17,7 @@
             "Search": "src/"
         },
         "psr-4": {
-            "Lucas\\localizacep\\": "src/"
+            "coutinho\\localizacep\\": "src/"
         }
     }
 }
